@@ -74,10 +74,14 @@ This notebook covers:
 - Splitting speeches into chunks with overlap to preserve context.  
 - Generating vector embeddings using Ollama Mistral.  
 - Creating and saving a FAISS vector store for semantic search.
+  
 ## Demo Video
 
 You can view a sample video demonstration in the included `Video.mp4` file to see how the application works in practice.
+
+
 https://github.com/user-attachments/assets/db77e45a-85cf-46d5-833a-6b28f490d171
+
 
 ## Tech Stack
 
