@@ -65,7 +65,7 @@ streamlit run app.py
 
 
     
-## About the Notebook (`basic.ipynb`)
+## About the Notebook (`data_prep.ipynb`)
 
 This notebook covers:
 
