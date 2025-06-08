@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/db77e45a-85cf-46d5-833a-6b28f490d171
-
-
 # 🗣️ Speech Analyzer
 
 A powerful and interactive web application that allows users to explore and query **famous persuasive speeches** using **natural language**. This project combines **web scraping**, **text chunking**, **vector embeddings**, and a **local LLM (Ollama Mistral)** to answer questions based on the content of historical speeches.
@@ -82,7 +77,7 @@ This notebook covers:
 ## Demo Video
 
 You can view a sample video demonstration in the included `Video.mp4` file to see how the application works in practice.
-![Video](Video.mp4)
+![Video](https://github.com/user-attachments/assets/db77e45a-85cf-46d5-833a-6b28f490d171)
 
 ## Tech Stack
 
