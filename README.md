@@ -77,7 +77,7 @@ This notebook covers:
 ## Demo Video
 
 You can view a sample video demonstration in the included `Video.mp4` file to see how the application works in practice.
-![Video](https://github.com/user-attachments/assets/db77e45a-85cf-46d5-833a-6b28f490d171)
+https://github.com/user-attachments/assets/db77e45a-85cf-46d5-833a-6b28f490d171
 
 ## Tech Stack
 
